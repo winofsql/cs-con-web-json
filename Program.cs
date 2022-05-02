@@ -3,7 +3,7 @@ using System.Net;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace cs_0501_01
+namespace cs_con_web_json
 {
     class Program
     {
